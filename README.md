@@ -70,4 +70,4 @@ http://localhost:8080/api/v1/generate?promptMessage=¿Qué es inteligencia artif
 ```
 
 ## Créditos
-Este proyecto está basado en el tutorial de [La Tecnología Avanza](https://www.youtube.com/channel/@latecnologiaavanza) que explica el proceso paso a paso.
+Este proyecto está basado en el tutorial de [La Tecnología Avanza](https://www.youtube.com/@latecnologiaavanza) que explica el proceso paso a paso.
